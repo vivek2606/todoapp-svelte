@@ -1,0 +1,4 @@
+Test 1 Passed: Add a todo
+Test 2 Passed: Toggle a todo
+Test 3 Passed: Delete a todo
+All tests passed successfully!
